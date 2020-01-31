@@ -1,3 +1,7 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
 .sidebar {
 	height: 100%;
 	width: 0;
@@ -30,7 +34,7 @@
 }
 
 #main {
-  transition: margin-left .5s; /* If you want a transition effect */
+  transition: margin-left .5s;
   padding: 20px;
 }
 
